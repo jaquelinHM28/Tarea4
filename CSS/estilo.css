@@ -1,0 +1,48 @@
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.row{
+    
+    background-color: yellow;
+    margin: 5px;
+}
+.col{
+    background-color: violet;
+    margin: 5px;
+}
+.modal{
+    background-color: tomato;
+}
+.carousel-inner{
+    width: 500px;
+    height: 350px;
+}
+img{
+    width: 500px;
+    height: 320px;
+}
+.container{
+    width: 525px;
+    height: 320px;
+}
+.harryimg{
+    width: 65px;
+    height: 65px;
+    margin: 5px;
+}
+.accordion{
+    margin: 20px;
+}
+.Volver{
+    background-color: blue;
+    text-decoration: antiquewhite;
+}
+.dep{
+    width: 100px;
+    height: 120px;
+}
+
+  
+  
